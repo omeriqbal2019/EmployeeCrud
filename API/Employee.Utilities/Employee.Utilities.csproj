@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Employee.Utilities</AssemblyName>
+    <RootNamespace>Employee.Utilities</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Crypto\" />
+    <Folder Include="Email\" />
+    <Folder Include="NotificationManager\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.7.4" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Employee.DBCore\Employee.DBCore.csproj" />
+  </ItemGroup>
+
+</Project>

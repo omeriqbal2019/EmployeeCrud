@@ -1,0 +1,15 @@
+F:\EmployeeProject\API\Employee.DBCore\bin\Release\net5.0\Employee.DBCore.deps.json
+F:\EmployeeProject\API\Employee.DBCore\bin\Release\net5.0\Employee.DBCore.dll
+F:\EmployeeProject\API\Employee.DBCore\bin\Release\net5.0\ref\Employee.DBCore.dll
+F:\EmployeeProject\API\Employee.DBCore\bin\Release\net5.0\Employee.DBCore.pdb
+F:\EmployeeProject\API\Employee.DBCore\bin\Release\net5.0\Employee.Models.dll
+F:\EmployeeProject\API\Employee.DBCore\bin\Release\net5.0\Employee.Models.pdb
+F:\EmployeeProject\API\Employee.DBCore\obj\Release\net5.0\Employee.DBCore.csproj.AssemblyReference.cache
+F:\EmployeeProject\API\Employee.DBCore\obj\Release\net5.0\Employee.DBCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\EmployeeProject\API\Employee.DBCore\obj\Release\net5.0\Employee.DBCore.AssemblyInfoInputs.cache
+F:\EmployeeProject\API\Employee.DBCore\obj\Release\net5.0\Employee.DBCore.AssemblyInfo.cs
+F:\EmployeeProject\API\Employee.DBCore\obj\Release\net5.0\Employee.DBCore.csproj.CoreCompileInputs.cache
+F:\EmployeeProject\API\Employee.DBCore\obj\Release\net5.0\Employee.DBCore.csproj.CopyComplete
+F:\EmployeeProject\API\Employee.DBCore\obj\Release\net5.0\Employee.DBCore.dll
+F:\EmployeeProject\API\Employee.DBCore\obj\Release\net5.0\ref\Employee.DBCore.dll
+F:\EmployeeProject\API\Employee.DBCore\obj\Release\net5.0\Employee.DBCore.pdb

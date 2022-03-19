@@ -1,0 +1,5 @@
+F:\EmployeeProject\API\Hydro.Utilities\obj\Debug\netcoreapp3.1\Hydro.Utilities.csproj.AssemblyReference.cache
+F:\EmployeeProject\API\Hydro.Utilities\obj\Debug\netcoreapp3.1\Hydro.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\EmployeeProject\API\Hydro.Utilities\obj\Debug\netcoreapp3.1\Hydro.Utilities.AssemblyInfoInputs.cache
+F:\EmployeeProject\API\Hydro.Utilities\obj\Debug\netcoreapp3.1\Hydro.Utilities.AssemblyInfo.cs
+F:\EmployeeProject\API\Hydro.Utilities\obj\Debug\netcoreapp3.1\Hydro.Utilities.csproj.CoreCompileInputs.cache

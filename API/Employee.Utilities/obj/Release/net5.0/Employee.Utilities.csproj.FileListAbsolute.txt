@@ -1,0 +1,17 @@
+F:\EmployeeProject\API\Employee.Utilities\bin\Release\net5.0\Employee.Utilities.deps.json
+F:\EmployeeProject\API\Employee.Utilities\bin\Release\net5.0\Employee.Utilities.dll
+F:\EmployeeProject\API\Employee.Utilities\bin\Release\net5.0\ref\Employee.Utilities.dll
+F:\EmployeeProject\API\Employee.Utilities\bin\Release\net5.0\Employee.Utilities.pdb
+F:\EmployeeProject\API\Employee.Utilities\bin\Release\net5.0\Employee.DBCore.dll
+F:\EmployeeProject\API\Employee.Utilities\bin\Release\net5.0\Employee.Models.dll
+F:\EmployeeProject\API\Employee.Utilities\bin\Release\net5.0\Employee.DBCore.pdb
+F:\EmployeeProject\API\Employee.Utilities\bin\Release\net5.0\Employee.Models.pdb
+F:\EmployeeProject\API\Employee.Utilities\obj\Release\net5.0\Employee.Utilities.csproj.AssemblyReference.cache
+F:\EmployeeProject\API\Employee.Utilities\obj\Release\net5.0\Employee.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\EmployeeProject\API\Employee.Utilities\obj\Release\net5.0\Employee.Utilities.AssemblyInfoInputs.cache
+F:\EmployeeProject\API\Employee.Utilities\obj\Release\net5.0\Employee.Utilities.AssemblyInfo.cs
+F:\EmployeeProject\API\Employee.Utilities\obj\Release\net5.0\Employee.Utilities.csproj.CoreCompileInputs.cache
+F:\EmployeeProject\API\Employee.Utilities\obj\Release\net5.0\Employee.Utilities.csproj.CopyComplete
+F:\EmployeeProject\API\Employee.Utilities\obj\Release\net5.0\Employee.Utilities.dll
+F:\EmployeeProject\API\Employee.Utilities\obj\Release\net5.0\ref\Employee.Utilities.dll
+F:\EmployeeProject\API\Employee.Utilities\obj\Release\net5.0\Employee.Utilities.pdb

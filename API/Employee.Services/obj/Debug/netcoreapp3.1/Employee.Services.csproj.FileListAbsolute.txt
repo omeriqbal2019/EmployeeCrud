@@ -1,0 +1,17 @@
+F:\EmployeeProject\API\Employee.Services\obj\Debug\netcoreapp3.1\Employee.Services.csproj.AssemblyReference.cache
+F:\EmployeeProject\API\Employee.Services\obj\Debug\netcoreapp3.1\Employee.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\EmployeeProject\API\Employee.Services\obj\Debug\netcoreapp3.1\Employee.Services.AssemblyInfoInputs.cache
+F:\EmployeeProject\API\Employee.Services\obj\Debug\netcoreapp3.1\Employee.Services.AssemblyInfo.cs
+F:\EmployeeProject\API\Employee.Services\obj\Debug\netcoreapp3.1\Employee.Services.csproj.CoreCompileInputs.cache
+F:\EmployeeProject\API\Employee.Services\bin\Debug\netcoreapp3.1\Employee.Services.deps.json
+F:\EmployeeProject\API\Employee.Services\bin\Debug\netcoreapp3.1\Employee.Services.dll
+F:\EmployeeProject\API\Employee.Services\bin\Debug\netcoreapp3.1\Employee.Services.pdb
+F:\EmployeeProject\API\Employee.Services\bin\Debug\netcoreapp3.1\Employee.DBCore.dll
+F:\EmployeeProject\API\Employee.Services\bin\Debug\netcoreapp3.1\Employee.Models.dll
+F:\EmployeeProject\API\Employee.Services\bin\Debug\netcoreapp3.1\Employee.Utilities.dll
+F:\EmployeeProject\API\Employee.Services\bin\Debug\netcoreapp3.1\Employee.DBCore.pdb
+F:\EmployeeProject\API\Employee.Services\bin\Debug\netcoreapp3.1\Employee.Models.pdb
+F:\EmployeeProject\API\Employee.Services\bin\Debug\netcoreapp3.1\Employee.Utilities.pdb
+F:\EmployeeProject\API\Employee.Services\obj\Debug\netcoreapp3.1\Employee.Services.csproj.CopyComplete
+F:\EmployeeProject\API\Employee.Services\obj\Debug\netcoreapp3.1\Employee.Services.dll
+F:\EmployeeProject\API\Employee.Services\obj\Debug\netcoreapp3.1\Employee.Services.pdb

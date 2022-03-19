@@ -1,0 +1,12 @@
+F:\EmployeeProject\API\Employee.Models\bin\Release\net5.0\Employee.Models.deps.json
+F:\EmployeeProject\API\Employee.Models\bin\Release\net5.0\Employee.Models.dll
+F:\EmployeeProject\API\Employee.Models\bin\Release\net5.0\ref\Employee.Models.dll
+F:\EmployeeProject\API\Employee.Models\bin\Release\net5.0\Employee.Models.pdb
+F:\EmployeeProject\API\Employee.Models\obj\Release\net5.0\Employee.Models.csproj.AssemblyReference.cache
+F:\EmployeeProject\API\Employee.Models\obj\Release\net5.0\Employee.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\EmployeeProject\API\Employee.Models\obj\Release\net5.0\Employee.Models.AssemblyInfoInputs.cache
+F:\EmployeeProject\API\Employee.Models\obj\Release\net5.0\Employee.Models.AssemblyInfo.cs
+F:\EmployeeProject\API\Employee.Models\obj\Release\net5.0\Employee.Models.csproj.CoreCompileInputs.cache
+F:\EmployeeProject\API\Employee.Models\obj\Release\net5.0\Employee.Models.dll
+F:\EmployeeProject\API\Employee.Models\obj\Release\net5.0\ref\Employee.Models.dll
+F:\EmployeeProject\API\Employee.Models\obj\Release\net5.0\Employee.Models.pdb
