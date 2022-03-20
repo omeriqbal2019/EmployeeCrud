@@ -449,11 +449,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\EmployeeProject\\API\\Employee.Models\\Employee.Models.csproj",
+      "projectUniqueName": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\Employee.Models.csproj",
       "projectName": "Employee.Models",
-      "projectPath": "F:\\EmployeeProject\\API\\Employee.Models\\Employee.Models.csproj",
+      "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\Employee.Models.csproj",
       "packagesPath": "C:\\Users\\Ux-PC\\.nuget\\packages\\",
-      "outputPath": "F:\\EmployeeProject\\API\\Employee.Models\\obj\\",
+      "outputPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

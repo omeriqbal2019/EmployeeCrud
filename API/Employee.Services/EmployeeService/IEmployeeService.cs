@@ -10,8 +10,8 @@ namespace Employee.Services.EmployeeService
     public interface IEmployeeService
     {
         public IList<EmployeeEntity> GetAllEmployee();
-        public MessageStatusDto SignUpEmployee(EmployeeDto empDto,int userId);
-        public MessageStatusDto UpdateEmployee(EmployeeDto empDto, int userId);
+        public MessageStatusDto SignUpEmployee(EmployeeDto empDto,int? userId);
+        public MessageStatusDto UpdateEmployee(EmployeeDto empDto, int userId,int updatedBy);
         MessageStatusDto DeleteEmployee(int userId, int modifiedById);
         public EmployeeEntity GetEmployeeById(int empId);
     }

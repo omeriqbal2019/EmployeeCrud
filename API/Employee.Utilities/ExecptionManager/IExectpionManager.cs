@@ -6,6 +6,6 @@ namespace Employee.Utilities.ExecptionManager
 {
     public interface IExectpionManager
     {
-        //void AddExecption(ExecptionsTbl exceptionTbl);
+      
     }
 }

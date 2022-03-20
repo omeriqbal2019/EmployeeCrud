@@ -66,8 +66,13 @@ namespace Employee.API.Controllers
         {
             try
             {
-               // var profile = GetProfile();
-                var addEmpData = _employeeService.SignUpEmployee(empDto, 1);
+                int? insertedBy=null;
+               var profile = GetProfile();
+                if (profile != null) 
+                    insertedBy = profile.EmployeeId;
+
+
+                var addEmpData = _employeeService.SignUpEmployee(empDto, insertedBy);
                 if (addEmpData != null)
                     return Ok(addEmpData);
             }
@@ -86,8 +91,8 @@ namespace Employee.API.Controllers
         {
             try
             {
-                //var profile = GetProfile();
-                var updateEmployeeData = _employeeService.UpdateEmployee(empDto, id);
+                var profile = GetProfile();
+                var updateEmployeeData = _employeeService.UpdateEmployee(empDto, id, profile.EmployeeId);
                 if (updateEmployeeData != null)
                     return Ok(updateEmployeeData);
 
@@ -111,8 +116,8 @@ namespace Employee.API.Controllers
         {
             try
             {
-              
-                var deleteEmployee = _employeeService.DeleteEmployee(employeeId,1);
+                var profile = GetProfile();
+                var deleteEmployee = _employeeService.DeleteEmployee(employeeId, profile.EmployeeId);
                 if (deleteEmployee != null)
                     return Ok(deleteEmployee);
             }

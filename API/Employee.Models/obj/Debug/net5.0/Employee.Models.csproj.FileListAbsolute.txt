@@ -10,3 +10,15 @@ F:\EmployeeProject\API\Employee.Models\obj\Debug\net5.0\Employee.Models.dll
 F:\EmployeeProject\API\Employee.Models\obj\Debug\net5.0\ref\Employee.Models.dll
 F:\EmployeeProject\API\Employee.Models\obj\Debug\net5.0\Employee.Models.pdb
 F:\EmployeeProject\API\Employee.Models\obj\Debug\net5.0\Employee.Models.csproj.AssemblyReference.cache
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\bin\Debug\net5.0\Employee.Models.deps.json
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\bin\Debug\net5.0\Employee.Models.dll
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\bin\Debug\net5.0\ref\Employee.Models.dll
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\bin\Debug\net5.0\Employee.Models.pdb
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\obj\Debug\net5.0\Employee.Models.csproj.AssemblyReference.cache
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\obj\Debug\net5.0\Employee.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\obj\Debug\net5.0\Employee.Models.AssemblyInfoInputs.cache
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\obj\Debug\net5.0\Employee.Models.AssemblyInfo.cs
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\obj\Debug\net5.0\Employee.Models.csproj.CoreCompileInputs.cache
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\obj\Debug\net5.0\Employee.Models.dll
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\obj\Debug\net5.0\ref\Employee.Models.dll
+F:\CrudOperation\EmployeeCrud\API\Employee.Models\obj\Debug\net5.0\Employee.Models.pdb

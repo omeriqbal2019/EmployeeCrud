@@ -43,7 +43,7 @@ namespace Employee.DBCore.Uow
 
             return (IGenericRepository<TEntity>)_repos[type];
         }
-        /// <returns>The number of objects in an Added, Modified, or Deleted state</returns>
+
         public int Commit()
         {
             return _dbContext.SaveChanges();

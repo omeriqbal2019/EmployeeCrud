@@ -7,9 +7,6 @@ using System.Data.SqlClient;
 
 namespace Employee.DBCore.Factory
 {
-    /// <summary>
-    /// context factory for ef
-    /// </summary>
     public class ContextFactory : IContextFactory
     {
         private readonly IOptions<ConnectionSettings> _connectionOptions;

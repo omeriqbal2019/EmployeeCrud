@@ -15,13 +15,15 @@ namespace Employee.API.Extensions
         public HeaderData GetProfile()
         {
             string response = Request.Headers["Authorization"];
+            if (response == null)
+                return null;
             response = response.Replace("Bearer ", "");
             var res = GetTokenData(response);
             HeaderData header = new HeaderData()
             {
                 EmployeeId = Convert.ToInt32(res["groupsid"]),
                 EmployeeName = res["unique_name"],
-                UserName=res["actor"]
+                UserName=res["nameid"]
 
               
             };

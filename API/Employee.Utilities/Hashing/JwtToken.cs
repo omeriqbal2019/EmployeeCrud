@@ -18,8 +18,7 @@ namespace Employee.Utilities.Hashing
                 {
                     new Claim(ClaimTypes.Name, Employeename),
                     new Claim(ClaimTypes.NameIdentifier, username),
-                    //new Claim(ClaimTypes.Actor,RoleName),
-                    new Claim(ClaimTypes.Sid,empId)
+                    new Claim(ClaimTypes.GroupSid,empId)
                 }),
                 Expires = DateTime.UtcNow.AddDays(1),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)

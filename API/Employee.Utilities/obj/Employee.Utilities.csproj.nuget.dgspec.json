@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\EmployeeProject\\API\\Employee.Utilities\\Employee.Utilities.csproj": {}
+    "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Utilities\\Employee.Utilities.csproj": {}
   },
   "projects": {
-    "F:\\EmployeeProject\\API\\Employee.DBCore\\Employee.DBCore.csproj": {
+    "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.DBCore\\Employee.DBCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\EmployeeProject\\API\\Employee.DBCore\\Employee.DBCore.csproj",
+        "projectUniqueName": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.DBCore\\Employee.DBCore.csproj",
         "projectName": "Employee.DBCore",
-        "projectPath": "F:\\EmployeeProject\\API\\Employee.DBCore\\Employee.DBCore.csproj",
+        "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.DBCore\\Employee.DBCore.csproj",
         "packagesPath": "C:\\Users\\Ux-PC\\.nuget\\packages\\",
-        "outputPath": "F:\\EmployeeProject\\API\\Employee.DBCore\\obj\\",
+        "outputPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.DBCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\EmployeeProject\\API\\Employee.Models\\Employee.Models.csproj": {
-                "projectPath": "F:\\EmployeeProject\\API\\Employee.Models\\Employee.Models.csproj"
+              "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\Employee.Models.csproj": {
+                "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\Employee.Models.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "F:\\EmployeeProject\\API\\Employee.Models\\Employee.Models.csproj": {
+    "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\Employee.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\EmployeeProject\\API\\Employee.Models\\Employee.Models.csproj",
+        "projectUniqueName": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\Employee.Models.csproj",
         "projectName": "Employee.Models",
-        "projectPath": "F:\\EmployeeProject\\API\\Employee.Models\\Employee.Models.csproj",
+        "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\Employee.Models.csproj",
         "packagesPath": "C:\\Users\\Ux-PC\\.nuget\\packages\\",
-        "outputPath": "F:\\EmployeeProject\\API\\Employee.Models\\obj\\",
+        "outputPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,14 +152,14 @@
         }
       }
     },
-    "F:\\EmployeeProject\\API\\Employee.Utilities\\Employee.Utilities.csproj": {
+    "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Utilities\\Employee.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\EmployeeProject\\API\\Employee.Utilities\\Employee.Utilities.csproj",
+        "projectUniqueName": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Utilities\\Employee.Utilities.csproj",
         "projectName": "Employee.Utilities",
-        "projectPath": "F:\\EmployeeProject\\API\\Employee.Utilities\\Employee.Utilities.csproj",
+        "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Utilities\\Employee.Utilities.csproj",
         "packagesPath": "C:\\Users\\Ux-PC\\.nuget\\packages\\",
-        "outputPath": "F:\\EmployeeProject\\API\\Employee.Utilities\\obj\\",
+        "outputPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,8 +180,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\EmployeeProject\\API\\Employee.DBCore\\Employee.DBCore.csproj": {
-                "projectPath": "F:\\EmployeeProject\\API\\Employee.DBCore\\Employee.DBCore.csproj"
+              "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.DBCore\\Employee.DBCore.csproj": {
+                "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.DBCore\\Employee.DBCore.csproj"
               }
             }
           }

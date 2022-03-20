@@ -35,7 +35,6 @@ namespace Employee.API
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
 
@@ -60,7 +59,6 @@ namespace Employee.API
             services.AddSingleton<ILoggerManager, LoggerManager>();
             services.AddTransient<IExectpionManager, ExceptionManager>();
 
-            // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Employee API Documentation", Version = "v1" });
@@ -85,17 +83,17 @@ namespace Employee.API
                      }
                    });
 
-                // Set the comments path for the Swagger JSON and UI.
-                //var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
-                //var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
-                //c.IncludeXmlComments(xmlPath);
+               
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                c.IncludeXmlComments(xmlPath);
             });
 
 
-            // configure strongly typed settings objects
+
             var appSettingsSection = Configuration.GetSection("AppSettings");
             services.Configure<AppSettings>(appSettingsSection);
-            // configure jwt authentication
+
             var appSettings = appSettingsSection.Get<AppSettings>();
             var key = Encoding.ASCII.GetBytes(appSettings.Secret);
             services.AddAuthentication(x =>
@@ -121,7 +119,7 @@ namespace Employee.API
             });
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerManager logger, IExectpionManager exectpionManager)
         {
             if (env.IsDevelopment())

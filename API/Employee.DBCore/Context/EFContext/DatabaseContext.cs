@@ -14,8 +14,6 @@ namespace Employee.DBCore.Context.EFContext
         }
         #region Entities
         public DbSet<EmployeeEntity> EmployeeEntities { get; set; }
-      
-
         #endregion
 
    

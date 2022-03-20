@@ -5643,11 +5643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\EmployeeProject\\API\\Employee.Services\\Employee.Services.csproj",
+      "projectUniqueName": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Services\\Employee.Services.csproj",
       "projectName": "Employee.Services",
-      "projectPath": "F:\\EmployeeProject\\API\\Employee.Services\\Employee.Services.csproj",
+      "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Services\\Employee.Services.csproj",
       "packagesPath": "C:\\Users\\Ux-PC\\.nuget\\packages\\",
-      "outputPath": "F:\\EmployeeProject\\API\\Employee.Services\\obj\\",
+      "outputPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5668,14 +5668,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\EmployeeProject\\API\\Employee.DBCore\\Employee.DBCore.csproj": {
-              "projectPath": "F:\\EmployeeProject\\API\\Employee.DBCore\\Employee.DBCore.csproj"
+            "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.DBCore\\Employee.DBCore.csproj": {
+              "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.DBCore\\Employee.DBCore.csproj"
             },
-            "F:\\EmployeeProject\\API\\Employee.Models\\Employee.Models.csproj": {
-              "projectPath": "F:\\EmployeeProject\\API\\Employee.Models\\Employee.Models.csproj"
+            "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\Employee.Models.csproj": {
+              "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Models\\Employee.Models.csproj"
             },
-            "F:\\EmployeeProject\\API\\Employee.Utilities\\Employee.Utilities.csproj": {
-              "projectPath": "F:\\EmployeeProject\\API\\Employee.Utilities\\Employee.Utilities.csproj"
+            "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Utilities\\Employee.Utilities.csproj": {
+              "projectPath": "F:\\CrudOperation\\EmployeeCrud\\API\\Employee.Utilities\\Employee.Utilities.csproj"
             }
           }
         }
