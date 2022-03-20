@@ -3,7 +3,7 @@
         <a class="nav-item nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Home</a>
         <a class="nav-item nav-link" (click)="logout()">Logout</a>
     </div>
-    <div> Welcome {{employee.firstName}}</div>
+    <div class="textcolor"> Employee: {{employee.firstName}}</div>
 </nav>
 
 <div class="app-container" [ngClass]="{ 'bg-light': employee }">

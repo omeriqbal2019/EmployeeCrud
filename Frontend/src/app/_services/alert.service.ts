@@ -7,7 +7,7 @@ import { Alert, AlertType } from '@app/_models';
 @Injectable({ providedIn: 'root' })
 export class AlertService {
     private subject = new Subject<Alert>();
-    private defaultId = 'default-alert';
+    private defaultId = 'senddefaultalert';
 
     onAlert(id = this.defaultId): Observable<Alert> {
         return this.subject.asObservable().pipe(filter(x => x && x.id === id));

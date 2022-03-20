@@ -4,7 +4,6 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { first } from 'rxjs/operators';
 import { AccountService, AlertService } from '@app/_services';
 import { ResponseModel } from '@app/_models/response-model';
-
 @Component({ templateUrl: 'add-edit.component.html' })
 export class AddEditComponent implements OnInit {
     form: FormGroup;
@@ -43,15 +42,15 @@ export class AddEditComponent implements OnInit {
                 .pipe(first())
                 .subscribe(x => {
                  
-                    this.f.firstName.setValue(x.firstName);
-                    this.f.lastName.setValue(x.lastName);
-                    this.f.username.setValue(x.username);
-                    this.f.email.setValue(x.email);
-                    this.f.phoneNumber.setValue(x.phoneNumber);
+                    this.formcontrolValues.firstName.setValue(x.firstName);
+                    this.formcontrolValues.lastName.setValue(x.lastName);
+                    this.formcontrolValues.username.setValue(x.username);
+                    this.formcontrolValues.email.setValue(x.email);
+                    this.formcontrolValues.phoneNumber.setValue(x.phoneNumber);
                 });
         }
     }
-    get f() { return this.form.controls; }
+    get formcontrolValues() { return this.form.controls; }
 
     onSubmit() {
         this.submitted = true;

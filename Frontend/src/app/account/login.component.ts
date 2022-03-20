@@ -28,7 +28,7 @@ export class LoginComponent implements OnInit {
         this.returnUrl = this.route.snapshot.queryParams['returnUrl'] || '/';
     }
 
-    get f() { return this.form.controls; }
+    get formcontrolvalue() { return this.form.controls; }
 
     onSubmit() {
         this.submitted = true;
@@ -38,11 +38,10 @@ export class LoginComponent implements OnInit {
         }
 
         this.loading = true;
-        this.accountService.login(this.f.username.value, this.f.password.value)
+        this.accountService.login(this.formcontrolvalue.username.value, this.formcontrolvalue.password.value)
             .pipe(first())
             .subscribe(
                 data => {
-                    debugger;
                     this.router.navigate([this.returnUrl]);
                 },
                 error => {
